@@ -5,7 +5,7 @@
 
 <hr>
 
-## This Repo Contain YoloV3 Solution of [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index)
+## This Repo Contains YoloV3 Solution of [Dhaka AI Traffic  Challenge](https://dhaka-ai.com/index)
 ### Training Setting : 
   - Model : yolov3-spp
   - Batch Size : 8
